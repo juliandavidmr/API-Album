@@ -1,7 +1,7 @@
 {
   "fotos": [{
     "descripcion": "Adam Sandler",
-    "imagen": "http://images.holaciudad.com/2013/07/17/entretenimiento/cine/actores-mejor-pagados-Hollywood_607449370_8964532_481x640.jpg",
+    "image": "http://images.holaciudad.com/2013/07/17/entretenimiento/cine/actores-mejor-pagados-Hollywood_607449370_8964532_481x640.jpg",
     "tags": [
       "actor",
       "pelicula",
@@ -9,7 +9,7 @@
     ]
   }, {
     "descripcion": "Will Smith",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236853_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236853_249px.jpg",
     "tags": [
       "broma",
       "actor",
@@ -17,7 +17,7 @@
     ]
   }, {
     "descripcion": "Johnny Depp",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221761_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221761_249px.jpg",
     "tags": [
       "pirata",
       "caribe",
@@ -26,7 +26,7 @@
     ]
   }, {
     "descripcion": "Vin Diesel",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237052_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237052_249px.jpg",
     "tags": [
       "rapido",
       "furioso",
@@ -36,7 +36,7 @@
     ]
   }, {
     "descripcion": "Jackie Chan",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237054_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237054_249px.jpg",
     "tags": [
       "karate",
       "acción",
@@ -45,7 +45,7 @@
     ]
   }, {
     "descripcion": "Morgan Freeman",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236855_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236855_249px.jpg",
     "tags": [
       "actor",
       "documental",
@@ -53,7 +53,7 @@
     ]
   }, {
     "descripcion": "Brad Pitt",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236865_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236865_249px.jpg",
     "tags": [
       "actor",
       "acción",
@@ -61,7 +61,7 @@
     ]
   }, {
     "descripcion": "Angelina Jolie",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221760_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221760_249px.jpg",
     "tags": [
       "brad",
       "mujer",
@@ -69,13 +69,13 @@
     ]
   }, {
     "descripcion": "Robin Williams",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236888_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236888_249px.jpg",
     "tags": [
       "broma"
     ]
   }, {
     "descripcion": "Leonardo Dicaprio",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236867_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236867_249px.jpg",
     "tags": [
       "documental",
       "hombre",
@@ -83,7 +83,7 @@
     ]
   }, {
     "descripcion": "Jim Carrey",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221759_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221759_249px.jpg",
     "tags": [
       "broma",
       "mascara",
@@ -91,27 +91,27 @@
     ]
   }, {
     "descripcion": "Nicholas Cage",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236859_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236859_249px.jpg",
     "tags": [
       "acción",
       "hombre"
     ]
   }, {
     "descripcion": "Jennifer Aniston",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236956_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236956_249px.jpg",
     "tags": [
       "mujer"
     ]
   }, {
     "descripcion": "Sandra Bullock",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236854_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236854_249px.jpg",
     "tags": [
       "acción",
       "mujer"
     ]
   }, {
     "descripcion": "Bruce Willis",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236871_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236871_249px.jpg",
     "tags": [
       "acción",
       "duro",
@@ -121,7 +121,7 @@
     ]
   }, {
     "descripcion": "Tom Cruise",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236957_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236957_249px.jpg",
     "tags": [
       "misión",
       "imposible",
@@ -130,14 +130,14 @@
     ]
   }, {
     "descripcion": "Cameron Diaz",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236856_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236856_249px.jpg",
     "tags": [
       "mujer",
       "acción"
     ]
   }, {
     "descripcion": "Eddie Murphy",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237022_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237022_249px.jpg",
     "tags": [
       "acción",
       "animales",
@@ -146,7 +146,7 @@
     ]
   }, {
     "descripcion": "Silvestre Stallone",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237143_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237143_249px.jpg",
     "tags": [
       "rambo",
       "guerra",
@@ -156,7 +156,7 @@
     ]
   }, {
     "descripcion": "Scarlett Johansson",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236866_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236866_249px.jpg",
     "tags": [
       "sexy",
       "mujer",
@@ -164,20 +164,20 @@
     ]
   }, {
     "descripcion": "Julia Roberts",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236858_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236858_249px.jpg",
     "tags": [
       "mujer"
     ]
   }, {
     "descripcion": "Megan Fox",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236889_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236889_249px.jpg",
     "tags": [
       "sexy",
       "mujer"
     ]
   }, {
     "descripcion": "Keanu Reeves",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237141_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237141_249px.jpg",
     "tags": [
       "karate",
       "acción",
@@ -185,44 +185,44 @@
     ]
   }, {
     "descripcion": "Martin Lawrence",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237048_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237048_249px.jpg",
     "tags": [
       "actor"
     ]
   }, {
     "descripcion": "Salma Hayek",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237045_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237045_249px.jpg",
     "tags": [
       "mujer"
     ]
   }, {
     "descripcion": "Jessica Alba",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236958_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236958_249px.jpg",
     "tags": [
       "sexy",
       "mujer"
     ]
   }, {
     "descripcion": "Samuel L Jackson",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236961_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236961_249px.jpg",
     "tags": [
       "hombre"
     ]
   }, {
     "descripcion": "Nicole Kidman",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221762_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2221762_249px.jpg",
     "tags": [
       "mujer"
     ]
   }, {
     "descripcion": "Catherine Zeta Jones",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236860_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236860_249px.jpg",
     "tags": [
 
     ]
   }, {
     "descripcion": "Clint Eastwood",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236955_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236955_249px.jpg",
     "tags": [
       "vaquero",
       "hombre",
@@ -230,7 +230,7 @@
     ]
   }, {
     "descripcion": "Kevin Costner",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237024_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237024_249px.jpg",
     "tags": [
       "acción",
       "guerra",
@@ -238,7 +238,7 @@
     ]
   }, {
     "descripcion": "Michelle Rodriguez",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237120_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237120_249px.jpg",
     "tags": [
       "mujer",
       "rapido",
@@ -247,7 +247,7 @@
     ]
   }, {
     "descripcion": "Milla Jovovich",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236870_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236870_249px.jpg",
     "tags": [
       "resident",
       "evil",
@@ -257,19 +257,19 @@
     ]
   }, {
     "descripcion": "Demi Moore",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236931_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236931_249px.jpg",
     "tags": [
       "mujer"
     ]
   }, {
     "descripcion": "Charlize Theron",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236852_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236852_249px.jpg",
     "tags": [
       "mujer"
     ]
   }, {
     "descripcion": "Eva Mendes",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237047_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237047_249px.jpg",
     "tags": [
       "rapido",
       "furioso",
@@ -278,7 +278,7 @@
     ]
   }, {
     "descripcion": "Halle Berry",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236883_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236883_249px.jpg",
     "tags": [
       "rayos",
       "x-men",
@@ -287,14 +287,14 @@
     ]
   }, {
     "descripcion": "Liv Tyler",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236925_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236925_249px.jpg",
     "tags": [
       "mujer",
       "acción"
     ]
   }, {
     "descripcion": "Michael J. Fox",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237123_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237123_249px.jpg",
     "tags": [
       "futuro",
       "auto",
@@ -304,7 +304,7 @@
     ]
   }, {
     "descripcion": "Kate Beckinsale",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236885_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2236885_249px.jpg",
     "tags": [
       "vampiro",
       "sangre",
@@ -312,7 +312,7 @@
     ]
   }, {
     "descripcion": "Jessica Biel",
-    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237144_249px.jpg?1280766058",
+    "image": "http://st-listas.20minutos.es/images/2010-03/204082/2237144_249px.jpg",
     "tags": [
       "mujer",
       "acción",
